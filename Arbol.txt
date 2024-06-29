@@ -1,0 +1,11 @@
+            Total Alumnos
+                  |
+-------------------------------------------------
+   |                                             |
+Hombres                                       Mujeres
+P(Hombres)                                   P(Mujeres)
+      |                                           |
+---------------------                      ------------------------------------------------
+|                   |                      |              |               |             |
+Preescolar       Primaria             Secundaria      Preescolar       Primaria    Secundaria
+P(Preescolar|H) P(Primaria|H)        P(Secundaria|H) P(Preescolar|M) P(Primaria|M) P(Secundaria|M)
